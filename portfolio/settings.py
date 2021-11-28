@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'tasks',
         'USER': 'cloud',
         'PASSWORD': 'cloud',
-        'HOST': 'POSTGRE_IP',
+        'HOST': 'POSTGRES_IP',
         'PORT': '5432',
     }
 }
